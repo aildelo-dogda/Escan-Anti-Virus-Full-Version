@@ -249,4 +249,4 @@ This repository serves as the official landing page for eScan Anti-Virus. The so
 **Get the most recent version of eScan Anti-Virus today!**
 
 ---
-**Last updated:** 2026-10-08 08:19:43 UTC
+**Last updated:** 2026-10-08 16:04:09 UTC
